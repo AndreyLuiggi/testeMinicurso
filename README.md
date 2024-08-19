@@ -1,0 +1,2 @@
+# testeMinicurso
+para minicurso IC
